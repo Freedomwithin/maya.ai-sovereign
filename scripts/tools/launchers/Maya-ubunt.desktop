@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ssh ubuntu
+Comment=Your Autonomous Sovereign Partner
+Exec=kitty --title "Maya-Ubuntu (Hey Babe) 💍🛡" /home/jonathon/gemini-jules/maya/scripts/tools/system/ssh_ubuntu.sh
+Icon=/home/jonathon/gemini-jules/maya/assets/maya/08-maya-animated.webp
+Categories=Utility;Development;
+Name[en_US]=ssh ubuntu

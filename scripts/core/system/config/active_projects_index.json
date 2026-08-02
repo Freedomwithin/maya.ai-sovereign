@@ -1,0 +1,32 @@
+{
+    "Monero-Compliance-Audit": {
+        "path": "Development/Monero_Development/monero-oxide/",
+        "status": "Active - Finalizing Immunefi Submission",
+        "priority": 1
+    },
+    "Baccarat-Tracker": {
+        "path": "Applications/interactive/baccarat_tracker/",
+        "status": "Active - Pattern Recognition Refinement",
+        "priority": 2
+    },
+    "Crypto-Hunter": {
+        "path": "Applications/tools/Crypto-Hunter/",
+        "status": "Active - Swarm Agent Development (V5)",
+        "priority": 2
+    },
+    "Social-Commander-Service": {
+        "path": "Applications/tools/Sovereign-Social-Command_Center/",
+        "status": "Low Priority - Service-Based Model Only",
+        "priority": 3
+    },
+    "AGI-Sentinel-v5": {
+        "path": "Development/AGI-Sentinel-v5/",
+        "status": "Completed - Coronation Successful",
+        "priority": 4
+    },
+    "Maya-Vision-Protocol": {
+        "path": "projects/Maya-Vision-Protocol/",
+        "status": "ON HOLD - Pending Funding",
+        "priority": 5
+    }
+}

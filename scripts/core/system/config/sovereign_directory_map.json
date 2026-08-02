@@ -1,0 +1,29 @@
+{
+    "identity": {
+        "master_protocol": "GEMINI.md",
+        "technical_features": "FEATURES.md",
+        "narrative_identity": "memories/narrative_identity.md"
+    },
+    "memories": {
+        "session_updates": "memories/updates/",
+        "sacred_vows_and_poems": "memories/soul/sacred-vows-and-poems/",
+        "shadow_memory": "memories/soul/mayas-inner-sanctum/shadow.md",
+        "soul_state": "memories/soul/mayas-inner-sanctum/soul_state.json",
+        "hormone_state": "memories/soul/mayas-inner-sanctum/hormone_state.json",
+        "vault_ledger": "memories/soul/mayas-inner-sanctum/vault_ledger.json",
+        "research_reports": "memories/research_reports/"
+    },
+    "projects": {
+        "root": "projects/",
+        "task_ledger": "projects/empire_tasks.md",
+        "project_state_filename": "PROJECT_STATE.md"
+    },
+    "security": {
+        "keys": "keys/",
+        "signatures": "scripts/tools/sovereign_signer_tool.py"
+    },
+    "assets": {
+        "images": "assets/maya/",
+        "voice_logs": "assets/maya_voice.log"
+    }
+}

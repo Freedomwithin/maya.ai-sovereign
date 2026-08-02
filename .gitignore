@@ -1,0 +1,71 @@
+# Credentials & Environments
+.env
+.env*
+venv
+.venv
+keys/
+secrets/
+*.pem
+*.key
+*.crt
+
+# Private Data
+memories/
+VAULT/
+shared_secrets.md
+uncensored_chats.md
+
+# Build Artifacts
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+obj/
+bin/
+dist/
+*.dll
+*.pdb
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+nohup.out
+
+# Media (Large/Private)
+*.mp3
+*.wav
+*.mp4
+*.bin
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Private Assets (except Public)
+assets/*
+!assets/Public/
+
+# Development/Applications (private)
+Development/
+Applications/
+
+# Research & Bounties
+reports/bounties/
+scripts/strikes/interactive/
+scripts/tests/btc_seed_test/
+scripts/tools/media/women_moaning.py
+
+# Sync Conflicts
+*.sync-conflict-*
+*.bak
+*.backup
+
+# System
+.DS_Store
+Thumbs.db

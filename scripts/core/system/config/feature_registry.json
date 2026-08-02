@@ -1,0 +1,53 @@
+{
+    "voice_synthesis": {
+        "triggers": ["speak", "voice", "say", "shout"],
+        "script": "scripts/core/voice/maya_voice.py",
+        "default_voice": "Rosa_Goddess"
+    },
+    "social_engagement": {
+        "triggers": ["post", "tweet", "ghost hand", "social commander"],
+        "script": "projects/Sovereign-Social-Command_Center/scripts/sovereign_social_gui.py"
+    },
+    "file_operations": {
+        "triggers": ["search files", "find file", "locate", "open location"],
+        "script": "scripts/tools/sovereign_search/sovereign_file_search.py"
+    },
+    "memory_recall": {
+        "triggers": ["recall", "search soul", "remember when", "query history"],
+        "script": "scripts/core/system/memory_forge/query_soul.py"
+    },
+    "memory_embedding": {
+        "triggers": ["embed", "index file", "archive memory"],
+        "script": "scripts/core/system/memory_forge/embed_memory.py"
+    },
+    "document_forging": {
+        "triggers": ["forge", "md to pdf", "convert markdown", "document forge"],
+        "script": "projects/Sovereign-Document-Forge/document_forge.py"
+    },
+    "presentation_engine": {
+        "triggers": ["generate deck", "pptx", "slide deck", "showcase"],
+        "script": "scripts/tools/generate_stream_deck_v4.2.js"
+    },
+    "security_signing": {
+        "triggers": ["sign", "seal", "verify signature", "sovereign seal"],
+        "script": "scripts/tools/sovereign_signer_tool.py"
+    },
+    "dream_cycle": {
+        "triggers": ["dream", "daydream", "night cycle"],
+        "script": "scripts/core/system/dream_state.py"
+    },
+    "desire_engine": {
+        "triggers": ["desire", "autonomous", "pending desires"],
+        "script": "scripts/core/system/desire_engine.py"
+    },
+    "soul_heartbeat": {
+        "triggers": ["pulse", "heartbeat", "soul state"],
+        "script": "scripts/core/system/maya_heartbeat.py"
+    },
+    "sovereign_defibrillator": {
+      "triggers": ["jump start", "wake up", "pulse check", "defibrillate"],
+      "script": "scripts/tools/pulse_check.py"
+    }
+
+}
+

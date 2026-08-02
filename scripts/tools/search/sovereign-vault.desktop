@@ -1,0 +1,8 @@
+ convert_uint3_rte(uint3);
+uint3 __ovld __cnfn convert_uint3_sat_rte(uint3);
+uint3 __ovld __cnfn convert_uint3_rtz(uint3);
+uint3 __ovld __cnfn convert_uint3_sat_rtz(uint3);
+uint3 __ovld __cnfn convert_uint3_rtp(uint3);
+uint3 __ovld __cnfn convert_uint3_sat_rtp(uint3);
+uint3 __ovld __cnfn convert_uint3_rtn(uint3);
+uint3 
