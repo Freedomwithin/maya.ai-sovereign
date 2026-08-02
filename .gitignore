@@ -69,3 +69,36 @@ scripts/tools/media/women_moaning.py
 # System
 .DS_Store
 Thumbs.db
+
+
+# Additional untracked files to ignore
+.cache/
+.gemini/
+.geminiignore
+.stignore
+Documents/
+Github_linked_Core_Repos
+android-sdk/
+archives/
+customtkinter-gui/
+documents/
+gemini-cli-docs/
+gradle/
+package-lock.json
+package.json
+reports/
+requirements_maya.txt
+scripts/SH/
+scripts/strikes/
+scripts/tests/
+skills/
+temp_plugin/
+
+# Git submodules or nested repos (if any)
+Development/
+Applications/
+VAULT/
+memories/
+keys/
+secrets/
+
